@@ -1,0 +1,24 @@
+📊 Unit III: Exploratory Visualizations
+Objective 1: Demographic Profiling
+
+The Question: Which specific demographic groups are targeted the most by Indian political advertisements?
+
+The Distinct Columns: top_targeted_age and top_targeted_gender (Categorical Data)
+
+Objective 2: Cost-to-Reach Efficiency
+
+The Question: Is there a direct mathematical correlation between the financial budget of an ad and its actual reach?
+
+The Distinct Columns: avg_spend and avg_impressions (Continuous Financial Data)
+
+Objective 3: Platform Content Strategy
+
+The Question: Do advertisers write longer, more complex ad copy for Facebook compared to Instagram?
+
+The Distinct Columns: ad_text_length, on_facebook, and on_instagram (NLP/Text Data & Boolean Variables)
+
+Objective 4: Temporal Campaign Trends
+
+The Question: Who are the top political advertisers, and what do their daily campaign launch timelines look like?
+
+The Distinct Columns: page_name and ad_delivery_start_time (Text & Time-Series Datetime Data)
